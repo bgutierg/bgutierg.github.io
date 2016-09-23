@@ -1,0 +1,167 @@
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'David Libre', serif;
+font-family: 'Indie Flower', cursive;
+*/
+
+
+#Contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background-color: none;
+}
+
+/*etiquetas*/
+
+body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	margin-right: 20px;
+	font-size: 50px;
+	text-align: right;	
+	color: white;
+}
+
+h2{
+	font-family: 'Comfortaa', cursive;
+	margin-right: 15px;
+	font-size: 20px;
+	text-align: right;	
+	color: white;	
+}
+
+h3{
+	font-family: 'Comfortaa', cursive;
+	margin-right: 15px;
+	margin-left: 30px;
+	font-size: 20px;
+	text-align: left;	
+	color: black;	
+}
+
+h4{
+	font-family: 'Comfortaa', cursive;
+	margin-right: 15px;
+	font-size: 18px;
+	text-align: center;	
+	color: rgba(0, 88, 132, 100);	
+}
+
+
+
+header{
+	width: 1000px;
+	height: 180px;
+	background-image:url(../img/fondo-header2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav{ 
+	width: 1000px;
+	height: 50px;
+	background-color: rgba(238, 184, 34, 100);
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+ul{
+	margin: none;
+	padding-top: 4px;
+}
+
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 7px;
+	background-color: none;
+	margin: 3px;
+	font-family: 'Comfortaa', cursive;
+	font-size: 20px;
+}	
+
+
+
+section{
+	width: 700px;
+	background-color: white;
+	height: 715px;
+	float: left;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 15px;
+}
+
+aside{
+	width: 256px;
+	background-color: rgba(244, 121, 32, 50);
+	height: 745px;
+	float: right;
+	border-radius: 15px;
+	font-family: 'David Libre', serif;
+	font-size: 20px;
+}
+
+
+
+footer {
+	width: 1000px;
+	height: 40px;
+	padding-bottom: 20px;
+	background-color: rgba(224, 224, 224, 100);
+	float:left;
+	margin-top: 7px;
+	border-radius: 15px;
+}
+
+p {
+	font-family: 'David Libre', serif;
+	font-size: 20px;
+	font-weight: italic;
+	line-height: 25px;
+	padding: 10px;
+	text-align: justify;
+	margin-left: 31px;
+	margin-right: 31px;
+	margin-bottom: 20px;
+}
+
+img{
+	margin-left: 40px;
+	margin-right: 25px;
+}
+
+/*Clases*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{padding: 7px; color: white; text-decoration: none}
+.menu:visited{padding: 7px;color: white; text-decoration: none}
+.menu:hover{padding: 7px;color: black; text-decoration: none}	
+.menu:active{padding: 7px;color: white; text-decoration: none}
+
+.enlaces:link{padding: 7px; color: rgba(0,88,132,100); text-decoration: none}
+.enlaces:visited{padding: 7px;color: rgba(0,88,132,100); text-decoration: none}
+.enlaces:hover{padding: 7px;color: black; text-decoration: none}	
+.enlaces:active{padding: 7px;color: rgba(0,88,132,100); text-decoration: none}
+
+
+/*seudo clases*/
+
+li:hover
+
+.barra:link{padding: 7px; color: rgba(0,88,132,100); text-decoration: none}
+.barra:
+.barra:
+.barra:
+
+
